@@ -69,7 +69,7 @@ You can see this work mainly in:
 
 ---
 
-## 👨‍💻 Collaborator
+## 👨‍💻 Collaborators
 **Haseeb Lateef**  
 **Denys Lazorenko**  
 **Arturo Andres Lopez Lozada**  
