@@ -69,7 +69,9 @@ You can see this work mainly in:
 
 ---
 
-## 👨‍💻 Author  
+## 👨‍💻 Collaborator
 **Haseeb Lateef**  
-- Designed and implemented combat & menu mechanics  
-- Integrated gameplay logic with display and sound drivers  
+**Denys Lazorenko**  
+**Arturo Andres Lopez Lozada**  
+
+
