@@ -1,0 +1,17 @@
+# Ignore PlatformIO build output
+.pio/
+build/
+*.elf
+*.hex
+*.bin
+
+# Ignore Node and Python caches (if present)
+node_modules/
+__pycache__/
+*.pyc
+dist/
+
+# Ignore generated archives or images
+*.zip
+*.jpg
+*.png
