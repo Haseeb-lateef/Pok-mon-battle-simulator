@@ -50,22 +50,22 @@ You can see this work mainly in:
 
 ---
 
-## 🚀 How to Build & Run  
+
 ### Requirements  
 - [PlatformIO](https://platformio.org/)  
 - STM32 Nucleo-F031K6 board  
 - TFT display connected to GPIOA/SPI1 pins  
 - Speaker/buzzer connected to TIM14 output  
 
-### Build & Flash  
-```bash
-pio run --target upload
-```
+
 
 ---
 
 ## 📸 Demo  
-*(Add screenshots, wiring diagrams, or gameplay photos in the `assets/` folder once available)*  
+[Click to watch demo](https://www.youtube.com/watch?v=BOfZ6Vjg3zQ)
+<img width="1669" height="799" alt="image" src="https://github.com/user-attachments/assets/61c89e49-6c63-4cd5-ab11-1883611f57a5" />
+
+
 
 ---
 
